@@ -1,10 +1,10 @@
-# Trust-Wallet-Arbitrage-Crypto-Bot
-An arbitrage trading bot for trust wallet extension that uses web3 and automation for profitting off of decentralized exchanges like Uniswap.
+# Metamask-Arbitrage-MEV-Trading-Bot
+A Metamask arbitrage trading bot for defi platforms and multiple blockchains. Use of front running mev bot trades for uniswap and other DEX's.
 <h1 align="center">
   <br>
-  <a href="https://github.com/patrykq9/Trust-Wallet-Arbitrage-Crypto-Bot"><img src="https://strapi-cdn.trustwallet.com/image1_1f915553ad.png" alt="Trust Wallet Arbitrage Trading Bot" width="350"></a>
+  <a href="https://github.com/patrykq9/Metamask-Arbitrage-Trading-Bot"><img src="https://moonbeam.network/wp-content/uploads/2020/12/metamask-500.png" alt="Metamask Arbitrage Trading Bot" width="200"></a>
   <br>
- Trust Wallet Arbitrage Crypto Bot for Defi Platforms
+  Metamask Arbitrage MEV Trading Bot for Defi Platforms
   <br>
 </h1>
 
@@ -20,7 +20,9 @@ An arbitrage trading bot for trust wallet extension that uses web3 and automatio
   <a href="#license">License</a>
 </p>
 
- <a href="https://github.com/patrykq9/Trust-Wallet-Arbitrage-Crypto-Bot"><img src="https://community.trustwallet.com/uploads/default/original/2X/a/a37f190b4098d2ab1eee7fbec7187dbfc3b555f9.jpeg" alt="Trust Wallet Arbitrage Trading Bot" width="500"></a>
+
+![screenshot](https://media0.giphy.com/media/3wpqQV1j9T6q7Jn1d4/giphy.gif?cid=ecf05e47w4ger32tc40a774ekqivg2qpq6t2t5vv2mlpka9b&rid=giphy.gif&ct=g)
+
 
 ## Key Features
 
@@ -63,7 +65,7 @@ Run and profit while you sleep :)
 
 ## Download
 
-You can [download](https://github.com/patrykq9/Trust-Wallet-Arbitrage-Crypto-Bot/archive/refs/heads/main.zip) the latest installable version of the Metamask MEV Arbitrage Trading Bot for Windows and macOS.
+You can [download](https://github.com/patrykq9/Metamask-Arbitrage-Trading-Bot/archive/refs/heads/main.zip) the latest installable version of the Metamask MEV Arbitrage Trading Bot for Windows and macOS.
 
 ## Credits
 
