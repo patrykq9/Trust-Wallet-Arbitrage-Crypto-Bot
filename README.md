@@ -20,8 +20,7 @@ An arbitrage trading bot for trust wallet extension that uses web3 and automatio
   <a href="#license">License</a>
 </p>
 
- <a href="https://github.com/patrykq9/Trust-Wallet-Arbitrage-Crypto-Bot"><img src="[https://strapi-cdn.trustwallet.com/image1_1f915553ad.png](https://community.trustwallet.com/uploads/default/original/2X/a/a37f190b4098d2ab1eee7fbec7187dbfc3b555f9.jpeg
-)" alt="Trust Wallet Arbitrage Trading Bot" width="500"></a>
+ <a href="https://github.com/patrykq9/Trust-Wallet-Arbitrage-Crypto-Bot"><img src="https://community.trustwallet.com/uploads/default/original/2X/a/a37f190b4098d2ab1eee7fbec7187dbfc3b555f9.jpeg" alt="Trust Wallet Arbitrage Trading Bot" width="500"></a>
 
 ## Key Features
 
