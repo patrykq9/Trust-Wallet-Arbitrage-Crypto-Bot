@@ -21,8 +21,7 @@ An arbitrage trading bot for trust wallet extension that uses web3 and automatio
 </p>
 
 
-![screenshot]([https://media0.giphy.com/media/3wpqQV1j9T6q7Jn1d4/giphy.gif?cid=ecf05e47w4ger32tc40a774ekqivg2qpq6t2t5vv2mlpka9b&rid=giphy.gif&ct=g](https://community.trustwallet.com/uploads/default/original/2X/a/a37f190b4098d2ab1eee7fbec7187dbfc3b555f9.jpeg))
-
+![screenshot]([https://community.trustwallet.com/uploads/default/original/2X/a/a37f190b4098d2ab1eee7fbec7187dbfc3b555f9.jpeg])
 
 ## Key Features
 
